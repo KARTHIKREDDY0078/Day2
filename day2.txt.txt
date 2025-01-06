@@ -1,0 +1,33 @@
+Give me some idea on what is a Data type. What are Primitive Data types and Non-Primitive Data types. Explain with some examples.
+ANS:
+    A data type is a classification that specifies which type of value a variable can hold in a programming language. It defines the operations that can be performed on the data, as well as the way it is stored in memory.
+
+Primitive Data Types
+Primitive data types are the most basic types of data that are directly supported by a programming language. They are not made up of other data types and are typically mapped directly to machine-level instructions. These data types serve as the foundation for storing values in programming.
+
+Here are some common primitive data types with examples:
+
+Integer (int):
+
+Represents whole numbers.
+Example: x = 10
+Floating-Point (float):
+
+Represents numbers with fractional parts (decimals).
+Example: y = 3.14
+Character (char):
+
+Represents a single character or symbol.
+Example: char letter = 'A';
+Boolean (bool):
+
+Represents two possible values: true or false.
+Example: isStudent = true;
+String (sometimes considered primitive in some languages, but treated as an object in others like Java or Python):
+
+Represents a sequence of characters (words or phrases).
+Example: name = "Alice"
+Byte:
+
+A small unit of storage, usually 8 bits, capable of storing values from 0 to 255.
+Example: byte age = 25;
